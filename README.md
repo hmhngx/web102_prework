@@ -1,5 +1,7 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
+Link to the website: https://hmhngx.github.io/web102_prework/
+
 Submitted by: **Harrison Nguyen**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
