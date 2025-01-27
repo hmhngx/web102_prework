@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/O0QS6Wr' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Sea Monster Crowdfunding (1) (1)](https://github.com/user-attachments/assets/7ae1d588-40be-4e67-9bd0-852d4d5eafd7)
 
 
 GIF created with Screen To Gif  
